@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"tfc:metal/ingot/brass","components":"{\"tfc:heat\":{}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:brass_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:mechanical_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
