@@ -1,1060 +1,1060 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "changelog": "",
   "files": [
     {
       "path": "config/fancymenu/assets/dark2048807.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/dark2048807.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/dark2048807.png",
       "size": 201959,
       "sha256": "661877e873b9ed00c3559db4bc013b7b495bcdedd3b2db4b624c21680c782301",
       "target": "both"
     },
     {
       "path": "config/fancymenu/assets/dark_purple.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/dark_purple.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/dark_purple.png",
       "size": 217392,
       "sha256": "b04a446e45701ffc06ae7bb116ceb64bc011a8325e392c62a30a14e2b0de5759",
       "target": "both"
     },
     {
       "path": "config/fancymenu/assets/ico/language.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/ico/language.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/ico/language.png",
       "size": 466,
       "sha256": "ace234d66894031a9a5524163cc845b539f243a12bcb8a2ec195db2c5f60f768",
       "target": "both"
     },
     {
       "path": "config/fancymenu/assets/ico/settings.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/ico/settings.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/ico/settings.png",
       "size": 378,
       "sha256": "7e5480360a7a38341b3ba7f07dd1c63c7a1185d27933c85dd20595cd7724846f",
       "target": "both"
     },
     {
       "path": "config/fancymenu/assets/menu/menu_bg.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/menu/menu_bg.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/menu/menu_bg.png",
       "size": 2845148,
       "sha256": "09e8ed75eccaf19d4b06fff41e0112947421993b5404ec2e5add44263f2ef3a3",
       "target": "both"
     },
     {
       "path": "config/fancymenu/assets/purple_dark.png",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/assets/purple_dark.png",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/assets/purple_dark.png",
       "size": 212480,
       "sha256": "a1db334657f16906ad7e8ad6be90c2a81cdd4e3488958aa138cb46775cb556b1",
       "target": "both"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/custom_gui_screens.txt",
       "size": 51,
       "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customizablemenus.txt",
       "size": 1791,
       "sha256": "898744405a6f9835a6b696bed72850cd8e470dbf8bbffcc1bd110f41e73b39c9",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/accessibility_options_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/accessibility_options_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/accessibility_options_screen.txt",
       "size": 18863,
       "sha256": "205f572f7cd73b0926f6faf864a33b3f0adec44d6f590497f378782a6b877a65",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/chat_options_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/chat_options_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/chat_options_screen_layout.txt",
       "size": 16084,
       "sha256": "0ecfac062705501c2a9bf0b7892820696c8948952ca94aadbcd9010b9050f5ba",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/com.blamejared.controlling.client.newkeybindsscreen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/com.blamejared.controlling.client.newkeybindsscreen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/com.blamejared.controlling.client.newkeybindsscreen_layout.txt",
       "size": 32703,
       "sha256": "d7d421e55e025c9dc71d290362e8d621df4df61a0ac0b621b7d41d0a74bed3c1",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/confirm_link_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/confirm_link_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/confirm_link_screen_layout.txt",
       "size": 18853,
       "sha256": "dbecd1aa0451bf41d592ab37d4f709ed11b226dd3347a337b53c3b99063dd020",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/connect_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/connect_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/connect_screen.txt",
       "size": 16044,
       "sha256": "f095fd9bd3db2d8ac900f2ba249124f976ecd7bb44a4fa9a5454cc054868b072",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/controls_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/controls_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/controls_screen_layout.txt",
       "size": 16079,
       "sha256": "61eb7202366d347db4c310f22ccd3b4236eddd1f8ea631af6d53abcdc29af536",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/create_flat_world_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/create_flat_world_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/create_flat_world_screen_layout.txt",
       "size": 21624,
       "sha256": "09612507a566443daa7999272d08ab505afcf525d7893a996e3189c38788a367",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/create_world_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/create_world_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/create_world_screen.txt",
       "size": 29966,
       "sha256": "6e95a10c5c21a25fb87fd2cceaeeea6bf86b84bac9775b97bc57b6207a864059",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/credits_and_attribution_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/credits_and_attribution_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/credits_and_attribution_screen_layout.txt",
       "size": 24486,
       "sha256": "7ea3c8c1e916cd768ca3d3be1308a949cf514f1cbaf1752f81b66fe199085dbf",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/dev.dediamondpro.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/dev.dediamondpro.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/dev.dediamondpro.txt",
       "size": 10540,
       "sha256": "7d1f7b02147d50f1492ea063ea1553deffb0bab5ceaec1dd15d385aea867c6ff",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/edit_game_rules.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/edit_game_rules.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/edit_game_rules.txt",
       "size": 18853,
       "sha256": "389f6fb4632008920d2c749173d42d6e1170536a624bc2babd0d626f81b79290",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/edit_server_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/edit_server_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/edit_server_screen_layout.txt",
       "size": 18852,
       "sha256": "808cf24174c20c6871bb4baff14597e6901c181624c13c6088aedfd67964d322",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/experiments_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/experiments_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/experiments_screen.txt",
       "size": 38201,
       "sha256": "6901464d9f4f5cc609606587a4a41db7ef5019a661ee3ac03380e46920ff318a",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/generic_message_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/generic_message_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/generic_message_screen.txt",
       "size": 13278,
       "sha256": "40e8421612408827899d595eb240e9538406ca2b9a3a7440aeedc12d73018fdf",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
       "size": 29918,
       "sha256": "5e98ccd130ecdc8f179ba76e8741bf41feb898169951f77f5d3421b52589e238",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/language_select_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/language_select_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/language_select_screen_layout.txt",
       "size": 21617,
       "sha256": "c32b52674683b896489e34e60a46b522a3d7774ff40c88c6ec458d486f90506d",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/level_loading.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/level_loading.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/level_loading.txt",
       "size": 17980,
       "sha256": "23c5bc7f640c51a50477a54aafba0b33454c92f2ebafbbd3e5526d903dd10a64",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/me.flashyreese.mods.reeses_sodium_options.client.gui.sodiumvideooptionsscreen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/me.flashyreese.mods.reeses_sodium_options.client.gui.sodiumvideooptionsscreen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/me.flashyreese.mods.reeses_sodium_options.client.gui.sodiumvideooptionsscreen_layout.txt",
       "size": 10560,
       "sha256": "588e9f408facfca1db93c7a0576eb39580fe7054a087d69927269356e126bc5c",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/mouse_settings_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/mouse_settings_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/mouse_settings_screen_layout.txt",
       "size": 16085,
       "sha256": "6e040c326a2494133ca05c46c590f0b426a29e21576186fad40d1f063ac043f7",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/options_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/options_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/options_screen.txt",
       "size": 49680,
       "sha256": "dab65cd589bcc7c1ec0a6a34b6df57728a9922ed49ae6b45a58145fe318c6e45",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/pack_selection_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/pack_selection_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/pack_selection_screen_layout.txt",
       "size": 24376,
       "sha256": "73ca0bbb7d55eb091202d4017aa2ba62f61136dbf52f67ec913df1064ce271bb",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/progress_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/progress_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/progress_screen.txt",
       "size": 16027,
       "sha256": "63516d1be9d7be958220148b238f3da7a48485a4bfb638de885177fd6619ac90",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/receiving_level_screen.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/receiving_level_screen.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/receiving_level_screen.txt",
       "size": 13288,
       "sha256": "f1007ca87f4674be82d51151e94de36b132a856b8183c5aa2b0b1508720af9aa",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/safety_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/safety_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/safety_screen_layout.txt",
       "size": 24324,
       "sha256": "b451a85e9c26de518d8b9cb13161be9358c1514b01e1262e7413f4b988827e57",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/skin_customization_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/skin_customization_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/skin_customization_screen_layout.txt",
       "size": 16090,
       "sha256": "c9d5bbea84b3b594bbfb46d835debdf17d7a1f65e32a47ba183dcc1457592221",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/sound_options_screen_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/sound_options_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/sound_options_screen_layout.txt",
       "size": 16085,
       "sha256": "20ef12112d948d8cb9ab862290234ba11d76c6a7d7632e8a32860c2934e74c40",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/title_screen_book_of_minecraft.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/title_screen_book_of_minecraft.txt",
-      "size": 68069,
-      "sha256": "9a24fd0ed5782534b0057a9a2d7b365c0957af2ca27c48762a8120a80f1baf50",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/title_screen_book_of_minecraft.txt",
+      "size": 68068,
+      "sha256": "f2a8a06354f5eae690163d64f2d2c0fb47810facf464e6aae79c3d7ce3dde7c2",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/universal_layout.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/universal_layout.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/universal_layout.txt",
       "size": 10557,
       "sha256": "8a1d8ea77eb2a7a606b50995fb7949e811fccdb0cc97fb2ca7294f8b472289e8",
       "target": "both"
     },
     {
       "path": "config/fancymenu/customization/update.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/customization/update.txt",
-      "size": 66665,
-      "sha256": "3f7714214726ce3597370206b6d5e188e0d85c8a954ecbe89526d775b6cd3ab0",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/customization/update.txt",
+      "size": 76354,
+      "sha256": "cf68966d618ad71e3e3403a20d258abe142662585d39a55e3bbf128895dffa5f",
       "target": "both"
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
       "size": 197,
       "sha256": "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
       "target": "both"
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/legacy_checklist.txt",
       "size": 42,
       "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
       "target": "both"
     },
     {
       "path": "config/fancymenu/normalized_scroll_screens.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/normalized_scroll_screens.json",
       "size": 26,
       "sha256": "b4e248d97ae8fe9570240c09d496594716261cefda9c1aca1d09a3d80f3870da",
       "target": "both"
     },
     {
       "path": "config/fancymenu/options.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/options.txt",
-      "size": 4415,
-      "sha256": "5851ee98da6f905aef077e6c02d1c2463da364f1ff7de2f83653af46ca532a26",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/options.txt",
+      "size": 4416,
+      "sha256": "979912b6f39109241ed23d89e3ce96410d28f83cc53ea644b8bd37ebaf5c3190",
       "target": "both"
     },
     {
       "path": "config/fancymenu/scheduler_instances.txt",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/scheduler_instances.txt",
-      "size": 4107,
-      "sha256": "9e54c93257b92f61e3b548eba10956206dd33116f5c95bdaaf9cba2ea1eecedf",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/scheduler_instances.txt",
+      "size": 6899,
+      "sha256": "03d38d17c849447ca0f8c847f6bb2707c68938d2943a2af0a59e71bf762c1892",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/cherry_blossom.json",
       "size": 9349,
       "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/cozy_campfire.json",
       "size": 9347,
       "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/dark.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/dark.json",
       "size": 9329,
       "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/dark_high_contrast.json",
       "size": 9359,
       "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/light.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/light.json",
       "size": 9331,
       "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/light_high_contrast.json",
       "size": 9361,
       "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/pumpkin_soup.json",
       "size": 9345,
       "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/purple_void.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/purple_void.json",
       "size": 9343,
       "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
       "target": "both"
     },
     {
       "path": "config/fancymenu/ui_themes/spooky_season.json",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/ui_themes/spooky_season.json",
       "size": 9347,
       "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
       "target": "both"
     },
     {
       "path": "config/fancymenu/user_variables.db",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/config/fancymenu/user_variables.db",
-      "size": 89,
-      "sha256": "d597d40e27b0d373168504f92b07ecf89584bf679ba3c74e567f9165acc2cba2",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/config/fancymenu/user_variables.db",
+      "size": 218,
+      "sha256": "bb80bfcf0e9977a02a28278b3ff8daef406330ad5aad01b14bbbca150fcc3e0e",
       "target": "both"
     },
     {
       "path": "mods/aces_spell_utils-1.2.7.5-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/aces_spell_utils-1.2.7.5-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/aces_spell_utils-1.2.7.5-1.21.1.jar",
       "size": 401499,
       "sha256": "8fac6ed778cbb6a7f2ba8ef80e5ca7c8585dabffcdd73b9402457b75f317ff14",
       "target": "both"
     },
     {
       "path": "mods/architectury-13.0.11-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/architectury-13.0.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/architectury-13.0.11-neoforge.jar",
       "size": 584734,
       "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
       "target": "both"
     },
     {
       "path": "mods/AsyncParticles-21.1.4.10+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/AsyncParticles-21.1.4.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/AsyncParticles-21.1.4.10+1.21.1.jar",
       "size": 1303563,
       "sha256": "860c7754101bb15798744891a4d63a329134302ae61ff3faf44d501885ab9fd8",
       "target": "both"
     },
     {
       "path": "mods/azurelib-neo-1.21.1-3.2.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/azurelib-neo-1.21.1-3.2.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/azurelib-neo-1.21.1-3.2.1.jar",
       "size": 1062359,
       "sha256": "446d0dde41fc56cd32bd1f55e18b2547b5eb1674fa2c7f2a1b8cbc70794e6711",
       "target": "both"
     },
     {
       "path": "mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/baguettelib-1.21.1-NeoForge-2.0.7.jar",
       "size": 85738,
       "sha256": "a1af3ae5c2945240bff3afa779621d9d8e21fb23bb6b1433f584e746735bae24",
       "target": "both"
     },
     {
       "path": "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.123.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.123.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.123.jar",
       "size": 3717365,
       "sha256": "ba33f46c615192494ad1c1ede8a85a1a884736eb4ac5b8bb24b357deb0692809",
       "target": "both"
     },
     {
       "path": "mods/cataclysm_create-1.21.1-Neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/cataclysm_create-1.21.1-Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/cataclysm_create-1.21.1-Neoforge.jar",
       "size": 177219,
       "sha256": "113860c5fb30ebc9d5679b5f67e3819ef267e8e9b8d313906d3387fafcaee662",
       "target": "both"
     },
     {
       "path": "mods/cataclysm_spellbooks-1.1.14-1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/cataclysm_spellbooks-1.1.14-1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/cataclysm_spellbooks-1.1.14-1.21.jar",
       "size": 1170131,
       "sha256": "a5a0dcad537954f488c862b3409831e0d12b4dfdc50bbfade298cb3d05dff2cf",
       "target": "both"
     },
     {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/cloth-config-15.0.140-neoforge.jar",
       "size": 1163890,
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
       "target": "both"
     },
     {
       "path": "mods/cobweb-neoforge-1.21-1.4.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/cobweb-neoforge-1.21-1.4.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/cobweb-neoforge-1.21-1.4.0.jar",
       "size": 410948,
       "sha256": "40c151dcee6a08decdd980a7c7ffed6ada292e77c3d2cd7aea2d01e5fa8d3b1c",
       "target": "both"
     },
     {
       "path": "mods/ColdSweat-2.4.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/ColdSweat-2.4.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/ColdSweat-2.4.1.jar",
       "size": 2709796,
       "sha256": "aba1379c8ef76ea8e191175155ad5a95bfc0c6a7c5f152f5ccc1638d16776f5a",
       "target": "both"
     },
     {
       "path": "mods/connector-2.0.0-beta.17+1.21.1-full.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
       "size": 4573244,
       "sha256": "ca70b57df3a7a4e8d211fea7ff3ae77e768482af374f26bf953ff5fd755564f0",
       "target": "both"
     },
     {
       "path": "mods/create-1.21.1-6.0.10.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/create-1.21.1-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/create-1.21.1-6.0.10.jar",
       "size": 19123767,
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
       "target": "both"
     },
     {
       "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
       "size": 33123131,
       "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
       "target": "both"
     },
     {
       "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/create_connected-1.3.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/create_connected-1.3.3-mc1.21.1.jar",
       "size": 6786783,
       "sha256": "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f",
       "target": "both"
     },
     {
       "path": "mods/Create_TFC_Unofficial Port-0.0.4.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Create_TFC_Unofficial%20Port-0.0.4.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Create_TFC_Unofficial%20Port-0.0.4.jar",
       "size": 844830,
       "sha256": "410ac9af99e539f3e57bc8e5086edc5096d8c86d84ba2ce2e36dc3c54cfeb01a",
       "target": "both"
     },
     {
       "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "size": 235239,
       "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0",
       "target": "both"
     },
     {
       "path": "mods/create_wizardry-1.21.1-0.5.1-pre1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/create_wizardry-1.21.1-0.5.1-pre1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/create_wizardry-1.21.1-0.5.1-pre1.jar",
       "size": 653145,
       "sha256": "6641da4ba58be5cbc3347980ecce4de2bc914a9720ab603b5978b93ad882c207",
       "target": "both"
     },
     {
       "path": "mods/createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
       "size": 250901,
       "sha256": "0869f9cbf7c291ed680df8bb345cfffb63ed2c7b494eddb8314778cda848e8fe",
       "target": "both"
     },
     {
       "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
       "size": 583525,
       "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
       "target": "both"
     },
     {
       "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/curios-neoforge-9.5.1+1.21.1.jar",
       "size": 410690,
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "target": "both"
     },
     {
       "path": "mods/discerning_the_eldritch-1.4.4-1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/discerning_the_eldritch-1.4.4-1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/discerning_the_eldritch-1.4.4-1.21.jar",
       "size": 22098930,
       "sha256": "77e53df3fe020572626593ca9f6b955abce1dd4b49697084c2226019dcf2ef14",
       "target": "both"
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
       "size": 220193,
       "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
       "target": "both"
     },
     {
       "path": "mods/eldritch_expansion-0.4.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/eldritch_expansion-0.4.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/eldritch_expansion-0.4.2.jar",
       "size": 307290,
       "sha256": "64cc195b28fdc9f29c18ddd03582c6b92be35d83d8ef30608d1817978c101af1",
       "target": "both"
     },
     {
       "path": "mods/electroenergetics-1.21.1-1.1.4.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/electroenergetics-1.21.1-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/electroenergetics-1.21.1-1.1.4.jar",
       "size": 4774719,
       "sha256": "2362decf60ace66037eb2ae79f34fed57b5f152e0435164f5f91912ea837052f",
       "target": "both"
     },
     {
       "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
       "size": 1510075,
       "sha256": "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5",
       "target": "both"
     },
     {
       "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
       "size": 25922080,
       "sha256": "92f74ef89381ea1f74e1145feab6db4ce4638804b1fb43622302d0a647fc0a66",
       "target": "both"
     },
     {
       "path": "mods/farmers-spell-n-spellbook-1.0.6.0-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/farmers-spell-n-spellbook-1.0.6.0-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/farmers-spell-n-spellbook-1.0.6.0-1.21.1.jar",
       "size": 5584679,
       "sha256": "871359d501784365544f74cf8b26db162b7ea4da4bf918c11403e54e57ca4323",
       "target": "both"
     },
     {
       "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/FarmersDelight-1.21.1-1.3.4.jar",
       "size": 3160490,
       "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
       "target": "both"
     },
     {
       "path": "mods/FarmersDelight_TFC-1.21.1-neoforge-1.0.8.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/FarmersDelight_TFC-1.21.1-neoforge-1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/FarmersDelight_TFC-1.21.1-neoforge-1.0.8.jar",
       "size": 396470,
       "sha256": "a46549527d2627252764cdd3723160192a6fe03894c5f7fdfc57f273c9173e08",
       "target": "both"
     },
     {
       "path": "mods/Fastquit-3.0.1+1.21.1neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Fastquit-3.0.1+1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Fastquit-3.0.1+1.21.1neoforge.jar",
       "size": 152056,
       "sha256": "e29f70b01e9047ffab05d3f3c5d48cc497a87a246acfa3932dc99aa8f584768d",
       "target": "both"
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/ferritecore-7.0.3-neoforge.jar",
       "size": 121559,
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
       "target": "both"
     },
     {
       "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
       "size": 5612888,
       "sha256": "bcbb5d8479032690d53debfcf61c0477080ff6d1d4dae9a9a85122b47377646a",
       "target": "both"
     },
     {
       "path": "mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
       "size": 7815344,
       "sha256": "fb7e1b28d54fda52c62df2a7c050e772030d7c75663d1679371deb0a860d3c1f",
       "target": "both"
     },
     {
       "path": "mods/gbf-1.21.1-1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/gbf-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/gbf-1.21.1-1.0.2.jar",
       "size": 147655,
       "sha256": "48984167d9e0b3c8608497dc1a09a26b1fa26e8297b0f9e6ad065e5513a776a1",
       "target": "both"
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "size": 634531,
       "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
       "target": "both"
     },
     {
       "path": "mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
       "size": 27239,
       "sha256": "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d",
       "target": "both"
     },
     {
       "path": "mods/gnetum-3.3.6.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/gnetum-3.3.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/gnetum-3.3.6.jar",
       "size": 120726,
       "sha256": "19471108f3c2d799831ee52bc9d04d99cf745f0c1699b992ee981508befb583b",
       "target": "both"
     },
     {
       "path": "mods/gravestone-neoforge-1.21.1-1.0.40.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/gravestone-neoforge-1.21.1-1.0.40.jar",
       "size": 322082,
       "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0",
       "target": "both"
     },
     {
       "path": "mods/gravestone_sable_compat-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/gravestone_sable_compat-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/gravestone_sable_compat-1.0.0.jar",
       "size": 37546,
       "sha256": "5edab880eb160fb6fef87c5bf229cad4a89d3fbf7c58a7ee7656e56600832089",
       "target": "both"
     },
     {
       "path": "mods/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/gravestonecurioscompat-1.21.1-NeoForge-4.2.0.jar",
       "size": 17583,
       "sha256": "ad1959bca2a0b49270828e20d34a8b7545e6c2bec168ace8274cca49bc55e2b7",
       "target": "both"
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
       "size": 368896,
       "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
       "target": "both"
     },
     {
       "path": "mods/irons_lib-1.21.1-2.3.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/irons_lib-1.21.1-2.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/irons_lib-1.21.1-2.3.0.jar",
       "size": 481888,
       "sha256": "578d9ebfad529c0587efab2690bb469811f3a0a3593064c74263fdf909449f39",
       "target": "both"
     },
     {
       "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/irons_spellbooks-1.21.1-3.16.3.jar",
       "size": 13890045,
       "sha256": "55a290db9b966e0c5d2f5c051d50775f3db6375cdb52730c4da528bcf5d5daa0",
       "target": "both"
     },
     {
       "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/irons_spells_dynamic_skilltree_1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/irons_spells_dynamic_skilltree_1.1.0.jar",
       "size": 254720,
       "sha256": "07ecb47f5a374879f72239dec136ee8f7c08366384507d32aedb6419afe1e07e",
       "target": "both"
     },
     {
       "path": "mods/ironssablecompat-1.0.5.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/ironssablecompat-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/ironssablecompat-1.0.5.jar",
       "size": 65051,
       "sha256": "f753b5a729960055b68d634fb80febe04ddd2123d7ed6c0b09bdc3b0e5b5e4ef",
       "target": "both"
     },
     {
       "path": "mods/iss_magicfromtheeast-1.1.5.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/iss_magicfromtheeast-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/iss_magicfromtheeast-1.1.5.jar",
       "size": 1680780,
       "sha256": "e5ab22492b300d8f5e797f3f9d196e1e06f4a4a1db3650ac5a5979e6956e4920",
       "target": "both"
     },
     {
       "path": "mods/Ixeris-4.6.10+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Ixeris-4.6.10+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Ixeris-4.6.10+1.21.1-neoforge.jar",
       "size": 698627,
       "sha256": "58d317afd64adb4ab5f930f6cb649d6abe64f074c8a19069b4ab69c8881ab099",
       "target": "both"
     },
     {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "size": 726853,
       "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
       "target": "both"
     },
     {
       "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
       "size": 82315,
       "sha256": "1e7ce561f66c90446797e57f836c4459bb0dbc408b6bd551e5e18038774641ae",
       "target": "both"
     },
     {
       "path": "mods/jademoddedentities-neoforge-1.21.1-1.3.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/jademoddedentities-neoforge-1.21.1-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/jademoddedentities-neoforge-1.21.1-1.3.1.jar",
       "size": 123091,
       "sha256": "b0c3b82d1d2325efbe3826ff22f929d71152a3adfacc6d0e056ed9770b11cec0",
       "target": "both"
     },
     {
       "path": "mods/jei-1.21.1-neoforge-19.70.0.460.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/jei-1.21.1-neoforge-19.70.0.460.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/jei-1.21.1-neoforge-19.70.0.460.jar",
       "size": 4735620,
       "sha256": "097cdfae99b208dfb94f8c55e813af10e55688ecf4e42116fed1b7e26f0f4fcf",
       "target": "both"
     },
     {
       "path": "mods/jinxedlib-neoforge-1.21.1-1.0.4.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/jinxedlib-neoforge-1.21.1-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/jinxedlib-neoforge-1.21.1-1.0.4.jar",
       "size": 69628,
       "sha256": "6c49a583e23c50cae21cd3530c96329c7b3c0c180f8aaa7047e0b5770cc70630",
       "target": "both"
     },
     {
       "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
       "size": 618842,
       "sha256": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
       "target": "both"
     },
     {
       "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/L_Ender's%20Cataclysm%201.21.1-3.33.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/L_Ender's%20Cataclysm%201.21.1-3.33.jar",
       "size": 73375667,
       "sha256": "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875",
       "target": "both"
     },
     {
       "path": "mods/lendersdelight-1.21.1-1.0.10b.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/lendersdelight-1.21.1-1.0.10b.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/lendersdelight-1.21.1-1.0.10b.jar",
       "size": 194532,
       "sha256": "ddbc62c912d84205e09d9107ac3dd0c0e460fd554a965beebb2df26c55d6e43f",
       "target": "both"
     },
     {
       "path": "mods/lionfishapi-3.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/lionfishapi-3.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/lionfishapi-3.1.jar",
       "size": 91596,
       "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6",
       "target": "both"
     },
     {
       "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
       "size": 774220,
       "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
       "target": "both"
     },
     {
       "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
       "size": 36096,
       "sha256": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
       "target": "both"
     },
     {
       "path": "mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "size": 345479,
       "sha256": "deedd2c3cc30b142d1a50d4a82190970e33a70a86f89c9e5ba7eed8286087f9f",
       "target": "both"
     },
     {
       "path": "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "size": 614138,
       "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b",
       "target": "both"
     },
     {
       "path": "mods/moreculling-neoforge-1.21.1-1.0.10.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/moreculling-neoforge-1.21.1-1.0.10.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/moreculling-neoforge-1.21.1-1.0.10.jar",
       "size": 335699,
       "sha256": "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3",
       "target": "both"
     },
     {
       "path": "mods/obe+1.21.1-neoforge-1.1.52.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/obe+1.21.1-neoforge-1.1.52.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/obe+1.21.1-neoforge-1.1.52.jar",
       "size": 201022,
       "sha256": "bd9885c7e6ac11e0ad503096d1da901e013295b205683455098de129537a4404",
       "target": "both"
     },
     {
       "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "size": 544378,
       "sha256": "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
       "target": "both"
     },
     {
       "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "size": 646777,
       "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
       "target": "both"
     },
     {
       "path": "mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/Paxi-1.21.1-NeoForge-5.1.3.jar",
       "size": 102980,
       "sha256": "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7",
       "target": "both"
     },
     {
       "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "size": 203149,
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
       "target": "both"
     },
     {
       "path": "mods/prometheus-neoforge-1.21.1-1.2.5.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/prometheus-neoforge-1.21.1-1.2.5.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/prometheus-neoforge-1.21.1-1.2.5.jar",
       "size": 1056163,
       "sha256": "5b1c1937500339827b62201f420025985677817e0277f7b80fb9ad2407a351b4",
       "target": "both"
     },
     {
       "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
       "size": 52976,
       "sha256": "2f7831975da0740fd29f9bee775ac9fe43d3650c9d0720e8c4f108241c4092d8",
       "target": "both"
     },
     {
       "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
       "size": 235542,
       "sha256": "b21c165e033360e112eb2c3426437e1ba4ebf70f971535b72b1b1891d04c87f0",
       "target": "both"
     },
     {
       "path": "mods/puffish_skills-0.19.2-1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/puffish_skills-0.19.2-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/puffish_skills-0.19.2-1.21-neoforge.jar",
       "size": 652840,
       "sha256": "d96e4b5735bd05c7210892f75bf078a0a4cac67a8d99f28076e5a4a57fd4e2cd",
       "target": "both"
     },
     {
       "path": "mods/quantix-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/quantix-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/quantix-1.0.0.jar",
       "size": 3731864,
       "sha256": "2c47506fb703d62191508ac5850ccdc05054fe58a5edf44ce6c0f32aad36da04",
       "target": "both"
     },
     {
       "path": "mods/quick-pack-neoforge-1.5.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/quick-pack-neoforge-1.5.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/quick-pack-neoforge-1.5.1+1.21.1.jar",
       "size": 21758,
       "sha256": "1c3e963bdbf829bee1fe6dee29fdc5792890c09e67134849d54cf87b9ce3d431",
       "target": "both"
     },
     {
       "path": "mods/relics-1.21.1-0.12.11.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/relics-1.21.1-0.12.11.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/relics-1.21.1-0.12.11.jar",
       "size": 5090050,
       "sha256": "9dbe8c5ca7cd8e8bc03e6d0228ad42e62ef3f227e2e9b5b659bddd4090022535",
       "target": "both"
     },
     {
       "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/sable-neoforge-1.21.1-2.0.6.jar",
       "size": 12986135,
       "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
       "target": "both"
     },
     {
       "path": "mods/sablejade-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/sablejade-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/sablejade-1.3.0.jar",
       "size": 301532,
       "sha256": "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2",
       "target": "both"
     },
     {
       "path": "mods/simurail-0.1.0+mc1.21.1+c73af97 (1).jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/simurail-0.1.0+mc1.21.1+c73af97%20(1).jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/simurail-0.1.0+mc1.21.1+c73af97%20(1).jar",
       "size": 998604,
       "sha256": "55d82f844295df731c3b0697c9229e1c7a08918d423fad00102076de054e8f41",
       "target": "both"
     },
     {
       "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "size": 1292934,
       "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
       "target": "both"
     },
     {
       "path": "mods/soul-fire-d-neoforge-1.21-6.1.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/soul-fire-d-neoforge-1.21-6.1.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/soul-fire-d-neoforge-1.21-6.1.0.jar",
       "size": 667319,
       "sha256": "f4438290f1d21abfd0b7d6d7832543e176705c0624b73f8c9d441bba0efc9842",
       "target": "both"
     },
     {
       "path": "mods/spells_gone_wrong-1.21.1-2.0.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/spells_gone_wrong-1.21.1-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/spells_gone_wrong-1.21.1-2.0.1.jar",
       "size": 87853,
       "sha256": "dd339c173bf52a0ef2ef471c5f1dea7d7bbe23b1cd01b6fad5b9394ce64b3427",
       "target": "both"
     },
     {
       "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/t_and_t-fabric-neoforge-1.13.11.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "size": 3553006,
       "sha256": "270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f",
       "target": "both"
     },
     {
       "path": "mods/TerraFirmaCraft-NeoForge-1.21.1-4.2.12.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/TerraFirmaCraft-NeoForge-1.21.1-4.2.12.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/TerraFirmaCraft-NeoForge-1.21.1-4.2.12.jar",
       "size": 65439260,
       "sha256": "3c2d80e47c78cfbd617823ebe0d3d5e2f9ba9e7f04c1b34867dbab3894584440",
       "target": "both"
     },
     {
       "path": "mods/tfc-tmfg-oil-0.0.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfc-tmfg-oil-0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfc-tmfg-oil-0.0.1.jar",
       "size": 1780,
       "sha256": "5016d7381e7d34f5ec09ae01480fd6eff4024f27aa4c58834d5b4f529be1a164",
       "target": "both"
     },
     {
       "path": "mods/tfc_coldsweat-2.1.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfc_coldsweat-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfc_coldsweat-2.1.2.jar",
       "size": 94092,
       "sha256": "db725b0c47af95ec8d0e58c108df05990418d73019ea43fb5b9c8231efe3c2a1",
       "target": "both"
     },
     {
       "path": "mods/tfc_ruins-1.0.0-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfc_ruins-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfc_ruins-1.0.0-neoforge-1.21.1.jar",
       "size": 64879,
       "sha256": "87ce2a276428f2f3f35e80e23730d815db876b89712c0f62f1d5b78be206d393",
       "target": "both"
     },
     {
       "path": "mods/TFCRegistryAPI-1.21.x-1.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/TFCRegistryAPI-1.21.x-1.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/TFCRegistryAPI-1.21.x-1.2.jar",
       "size": 91559,
       "sha256": "c546be1e27e78786a1c0b8749a41765824aab8fdd79ed31fcf01690e6335ada8",
       "target": "both"
     },
     {
       "path": "mods/TFCRegrowingForests-1.21.1-2.2.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/TFCRegrowingForests-1.21.1-2.2.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/TFCRegrowingForests-1.21.1-2.2.jar",
       "size": 1657683,
       "sha256": "9bfc17f507af180db39c0a18393944c32417af42b15d3cd384523e269dd7c729",
       "target": "both"
     },
     {
       "path": "mods/tfcspells-0.1.1.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfcspells-0.1.1.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfcspells-0.1.1.jar",
       "size": 89083,
       "sha256": "fe44a4575c02788865dad9a7785972ce8ffc765296618aac44204294920dd353",
       "target": "both"
     },
     {
       "path": "mods/tfmg-1.2.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfmg-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfmg-1.2.0.jar",
       "size": 4924243,
       "sha256": "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555",
       "target": "both"
     },
     {
       "path": "mods/tfmg-1.21.1-1.3.2a-community.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/tfmg-1.21.1-1.3.2a-community.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/tfmg-1.21.1-1.3.2a-community.jar",
       "size": 5534993,
       "sha256": "e9e84f7507b0b482d176c7f04eb924ed1396637f480d596a8b2d266fa51640d0",
       "target": "both"
     },
     {
       "path": "mods/unraveling_spells-1.21.1-1.2.0b.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/unraveling_spells-1.21.1-1.2.0b.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/unraveling_spells-1.21.1-1.2.0b.jar",
       "size": 403371,
       "sha256": "da040c0de44f0bab12fc3135c34dbc1b7219bca2fad86773e81e74e49fb44397",
       "target": "both"
     },
     {
       "path": "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
       "size": 2186351,
       "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
       "target": "both"
     },
     {
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
       "size": 1427078,
       "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
       "target": "both"
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "size": 413763,
       "sha256": "375e0b2f988ab4f5bde182166c0f0b102377adc8f823660c24ade08b0b3cde56",
       "target": "both"
     },
     {
       "path": "resourcepacks/Faithful 32x - 1.21.1.zip",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/resourcepacks/Faithful%2032x%20-%201.21.1.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/resourcepacks/Faithful%2032x%20-%201.21.1.zip",
       "size": 11030261,
       "sha256": "15e093da38af37e11531c6cfeb9787f5617c20009c68b789eb62cfafe53c2762",
       "target": "both"
     },
     {
       "path": "resourcepacks/Faithful 64x - Release 6.zip",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/resourcepacks/Faithful%2064x%20-%20Release%206.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/resourcepacks/Faithful%2064x%20-%20Release%206.zip",
       "size": 16767880,
       "sha256": "ba28248289cf0ca2b4021cb90de1e1712dc1d7079f2fe1d250cb03b494c5f79f",
       "target": "both"
     },
     {
       "path": "resourcepacks/Icons v.1.14.zip",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/resourcepacks/Icons%20v.1.14.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/resourcepacks/Icons%20v.1.14.zip",
       "size": 9414964,
       "sha256": "a3c4cf58ed15e3abb8e607de23a018edc6cce0600970d0908ebf8498a3445e0c",
       "target": "both"
     },
     {
       "path": "resourcepacks/ProgrammerArtFix-6.2.zip",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/resourcepacks/ProgrammerArtFix-6.2.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/resourcepacks/ProgrammerArtFix-6.2.zip",
       "size": 725269,
       "sha256": "810150257cf380189b757e0bcd31f107821fcf1464f1d5858d611731e2452f48",
       "target": "both"
     },
     {
       "path": "resourcepacks/Unique Dark-Lite.zip",
-      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0/files/resourcepacks/Unique%20Dark-Lite.zip",
+      "url": "https://raw.githubusercontent.com/So1lovar/Book-Of-Minecraft/main/releases/1.0.2/files/resourcepacks/Unique%20Dark-Lite.zip",
       "size": 9595909,
       "sha256": "a0a6126829ee1445bd5d1ce6beed9f2f444b94fcae7865cca7a53d10714499e5",
       "target": "both"
