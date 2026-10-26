@@ -1,0 +1,51 @@
+type = scheduler_instances
+
+scheduler_instance {
+  scheduler_identifier = icons-v.1.14
+  scheduler_action_script_identifier = b5f48376-e588-49c4-8252-b3535db899d3-1793002565371
+  scheduler_start_on_launch = true
+  scheduler_start_delay_ms = 0
+  scheduler_tick_delay_ms = 0
+  scheduler_ticks_to_run = 10
+  [executable_action_instance:24dfe22e-73eb-4b4b-b550-28d9410a3384-1793002597273][action_type:manage_resource_pack] = Programmer Art|||enable|||true
+  [executable_block:5cef7219-302f-48c2-9763-d1593faa8c4d-1793002594313][type:if] = [executables:24dfe22e-73eb-4b4b-b550-28d9410a3384-1793002597273;]
+  [if_executable_block_body:5cef7219-302f-48c2-9763-d1593faa8c4d-1793002594313] = 8f1db468-8d1c-4fec-b140-04e81f145bdc-1793002568384
+  [loading_requirement_container_meta:8f1db468-8d1c-4fec-b140-04e81f145bdc-1793002568384] = [groups:][instances:fe7894a2-06c7-4332-bf73-796941c22030-1793002571397;]
+  [loading_requirement:is_resource_pack_enabled][requirement_mode:if_not][req_id:fe7894a2-06c7-4332-bf73-796941c22030-1793002571397] = Icons v.1.14.zip
+  [if_executable_block_collapsed:5cef7219-302f-48c2-9763-d1593faa8c4d-1793002594313] = false
+  [executable_block:b5f48376-e588-49c4-8252-b3535db899d3-1793002565371][type:generic] = [executables:5cef7219-302f-48c2-9763-d1593faa8c4d-1793002594313;]
+}
+
+scheduler_instance {
+  scheduler_identifier = unique-dark-lite
+  scheduler_action_script_identifier = 6bda0191-3fd1-437d-ba46-8e45fb6b6210-1793002419975
+  scheduler_start_on_launch = true
+  scheduler_start_delay_ms = 0
+  scheduler_tick_delay_ms = 0
+  scheduler_ticks_to_run = 10
+  [executable_action_instance:94f56c2f-9164-44de-ae86-fe213da6e2bd-1793002477451][action_type:manage_resource_pack] = Unique Dark-Lite.zip|||enable|||true
+  [executable_block:66a4faa3-d965-4207-a07c-46f9f8f60788-1793002451748][type:if] = [executables:94f56c2f-9164-44de-ae86-fe213da6e2bd-1793002477451;]
+  [if_executable_block_body:66a4faa3-d965-4207-a07c-46f9f8f60788-1793002451748] = 0359063d-ecf1-4846-adb5-69f56b98e1ef-1793002426046
+  [loading_requirement_container_meta:0359063d-ecf1-4846-adb5-69f56b98e1ef-1793002426046] = [groups:][instances:44f1491b-c25b-4df2-a9f7-49e8fd228187-1793002430280;]
+  [loading_requirement:is_resource_pack_enabled][requirement_mode:if_not][req_id:44f1491b-c25b-4df2-a9f7-49e8fd228187-1793002430280] = Unique Dark-Lite.zip
+  [if_executable_block_collapsed:66a4faa3-d965-4207-a07c-46f9f8f60788-1793002451748] = false
+  [executable_block:6bda0191-3fd1-437d-ba46-8e45fb6b6210-1793002419975][type:generic] = [executables:66a4faa3-d965-4207-a07c-46f9f8f60788-1793002451748;]
+}
+
+scheduler_instance {
+  scheduler_identifier = update
+  scheduler_action_script_identifier = 9afab954-fca2-427a-905f-a16e312ee245-1793004264601
+  scheduler_start_on_launch = true
+  scheduler_start_delay_ms = 0
+  scheduler_tick_delay_ms = 0
+  scheduler_ticks_to_run = 0
+  [executable_action_instance:49f42d36-94fa-4f75-afb4-e3075d1db77b-1793004296557][action_type:disable_layout] = title_screen_book_of_minecraft
+  [executable_action_instance:7014011a-d135-44a2-9a22-d9e64639d80b-1793004301241][action_type:enable_layout] = update
+  [executable_block:e5370223-4d2a-4311-8cb6-7d91727e031f-1793004287815][type:if] = [executables:49f42d36-94fa-4f75-afb4-e3075d1db77b-1793004296557;7014011a-d135-44a2-9a22-d9e64639d80b-1793004301241;]
+  [if_executable_block_body:e5370223-4d2a-4311-8cb6-7d91727e031f-1793004287815] = dfa42628-f558-4ea7-9111-d9c39c3efe56-1793004269735
+  [loading_requirement_container_meta:dfa42628-f558-4ea7-9111-d9c39c3efe56-1793004269735] = [groups:][instances:ee6d0b02-458b-4f88-ae55-8b44a2a00142-1793004272369;]
+  [loading_requirement:fancymenu_visibility_requirement_is_number][requirement_mode:if][req_id:ee6d0b02-458b-4f88-ae55-8b44a2a00142-1793004272369] = ["mode":"equals","number":"1","compare_with":"{"placeholder":"sollovar-update-available"}"]$
+  [if_executable_block_collapsed:e5370223-4d2a-4311-8cb6-7d91727e031f-1793004287815] = false
+  [executable_block:9afab954-fca2-427a-905f-a16e312ee245-1793004264601][type:generic] = [executables:e5370223-4d2a-4311-8cb6-7d91727e031f-1793004287815;]
+}
+
